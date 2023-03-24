@@ -2,10 +2,10 @@
 Ipl Win Probability Prediction
 
 Team Members
-Solasa Archana
-Shaik Azmi Shabana
-Thota Madhuri
-Dr.S.N Tirmula Rao
+1. Solasa Archana
+2. Shaik Azmi Shabana
+3. Thota Madhuri
+4. Dr.S.N Tirmula Rao
 
 Introduction
 
